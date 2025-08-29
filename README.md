@@ -7,7 +7,7 @@ It fetches real-time weather data from the OpenWeatherMap API and displays:
 ## Preveiw
 ![image alt](https://raw.githubusercontent.com/Ujjawal442025/Weather/425bc97b2bcd931cf2411777cd7b829501dd2b15/Screenshot_20250829_225350.jpg)
 ## Live Demo
-View Weather App
+View Weather App:-https://ujjawal442025.github.io/Weather/
 
 ## Features
 

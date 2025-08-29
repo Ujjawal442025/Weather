@@ -4,7 +4,8 @@ It fetches real-time weather data from the OpenWeatherMap API and displays:
 
 1.)Current temperature, weather condition, humidity, wind speed, Visibility,Feels like temperature, Pressure
 2.)Current Date
-
+## Preveiw
+![image alt](https://raw.githubusercontent.com/Ujjawal442025/Weather/425bc97b2bcd931cf2411777cd7b829501dd2b15/Screenshot_20250829_225350.jpg)
 ## Live Demo
 View Weather App
 
